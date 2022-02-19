@@ -9,7 +9,7 @@ def generateQR():
         genQR.png(v, scale=10)
     finQR = Image.open('QRCode.png')
     width, height = finQR.size
-    logo_size = 200
+    logo_size = 300
     finQR = finQR.convert("RGBA")
     genLogo = Image.open('Logo.png')
     xmin = ymin = int((width / 2) - (logo_size / 2))

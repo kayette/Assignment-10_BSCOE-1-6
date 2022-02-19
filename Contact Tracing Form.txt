@@ -1,5 +1,32 @@
-https://stackoverflow.com
+THE COVID-19 HEALTH MONITOR: CONTACT TRACING FORM
+
+Personal Information
+    Full Name       : Kaedehara Kazuha
+    Sex / Gender    : Male (M)
+    Age             : 20
+    Birthdate       : October 19, 2001
+    Home Address    : 991 Legaspi St., Binakayan, Kawit, Cavite
+    Phone Number    : 8116-003-1606 
+    Electronic Mail : leavesinthewind@inazuma.mhy
+
+Medical Information
+    Weight (in kg)  : 35 kgs
+    Height (in cm)  : 161 cm
+    Allergy         : Lightning
+
+Vaccination Report
+    Fully Vaccinated? (Maximum of Two (2) Dose):    Yes(/)      No( )
+    1st Dose
+        > June 16, 2021       : Sinovac-CoronaVac (Yashiro Estate, Inazuma)
+    2nd Dose
+        > September 3, 2021   : Sinovac-CoronaVac (Yashiro Estate, Inazuma)
+
+    Already had a BOOSTER Shot?:    Yes(/)      No( )
+        > December 30, 2021   : Pfizer-BioNTech  (Yashiro Estate, Inazuma)
+
+Date Tracking Record: February 18, 2022
+Time Tracking Record: 6:06 PM
 
 >>> REAL-TIME MANAGEMENT SYSTEM <<< 
 Date Tracking Record: February 19, 2022
-Time Tracking Record: 7:47 PM
+Time Tracking Record: 8:21 PM
